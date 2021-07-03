@@ -4,16 +4,6 @@ import './App.css';
 function App() {
   const [theme, setTheme] = useState("light");
   const [task_list, setTask_list] = useState([]);
-  const light_theme = {
-    normal: "#6200EE",
-    dark: "#3700B3",
-    optional: "#6200EE"
-  };
-  const dark_theme = {
-    normal: "#1F1F1F",
-    dark: "#000000",
-    optional: "#BB86FC"
-  };
   const themeChanger = () => {
     if (theme === "light") {
       setTheme("dark");

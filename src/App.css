@@ -12,7 +12,7 @@ body{
     position: relative;
 }
 .App_light{
-    background-color: #6200EE;
+    background-color: #3fb9ff;
     transition: 1s;  
 }
 .App_dark{
@@ -60,7 +60,7 @@ body{
 .slider_light{
     left: 15%;
     transition: 0.3s;
-    background-color: #3700B3;
+    background-color: #0096ec;
 }
 .slider_dark{
     left: 55%;
@@ -132,7 +132,7 @@ input:focus{
     display: flex;
 }
 .Tasks_light{
-    background-color: #3700B3;
+    background-color: #0096ec;
     transition: 1.5s;  
 }
 .Tasks_dark{
