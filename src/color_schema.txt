@@ -1,0 +1,11 @@
+Light Theme
+blue:- #6200EE
+dark blue:- #3700B3
+extra:- #6200EE
+
+Dark Theme
+black:- #1F1F1F
+dark black:- #000000
+extra:- #BB86FC
+
+font:- Roboto, sans-serif
